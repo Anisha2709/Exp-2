@@ -1,6 +1,7 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
-# AIM:All UML models for the Library Management System designed and presented using StarUML.
+# AIM:
+All UML models for the Library Management System designed and presented using StarUML.
 
 # SRS (Procedure):
 ### Step 1: Problem Identification
@@ -39,3 +40,4 @@ Design database tables for Books, Members, Transactions, and Staff management.
 <img width="1172" height="883" alt="image" src="https://github.com/user-attachments/assets/6b517c03-f4d3-4121-9b2d-e606c9b0caa5" />
 
 # RESULT:
+Thus all UML diagrams have been successfully done
